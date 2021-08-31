@@ -5,7 +5,11 @@
 2. Why do we need NER and where is it applied?
 3. What is Annotation and why do we need it?
 4. NER Approach to build a model for NER - Clinical data extraction
-    a. Data Extraction 
+
+    a. Data Extraction
+    
     b. Data Preparation for spaCy
+    
     c. Training NER Model
+    
     d. Model Evaluation on new data
